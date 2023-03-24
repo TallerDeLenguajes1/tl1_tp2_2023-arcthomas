@@ -1,0 +1,8 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+- El archivo tp2_1_2.c desaparece luego de cambiar la rama de Opcion 2 a main, eso es porque tp2_1_2.c fue creado especificamente para Opcion 2 y no existe tal archivo en main
+
+En la línea principal agregue un nuevo archivo que se llame Respuestas.txt y haga
+el commit correspondiente y vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+- main avanzó un cambio con el commit y Opcion 2 se desplazó a un lado 
